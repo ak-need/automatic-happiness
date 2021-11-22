@@ -793,9 +793,9 @@ Badge | URL
 
 Badge | URL
 ------------ | -------------
-<img width='200' src="https://github-readme-stats.vercel.app/api?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api?username={username}`
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresanlim" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=alexandresanlim" /> | ```https://github-readme-streak-stats.herokuapp.com/?user={username}```
+<img width='200' src="https://github-readme-stats.vercel.app/api?username=ak-need" /> | `https://github-readme-stats.vercel.app/api?username={username}`
+<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-need" /> | `https://github-readme-stats.vercel.app/api/top-langs/?username={username}`
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=ak-need" /> | ```https://github-readme-streak-stats.herokuapp.com/?user={username}```
 
 
 
@@ -806,25 +806,4 @@ Badge | URL
 ------------ | -------------
 <img src="https://img.shields.io/badge/qgis-3.22_Bia%C5%82owie%C5%BCa-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white`
 <img src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"> | `https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white`
-
-
-## ✏ Contribute [🔝](#welcome-badges-4-readmemd-profile)
-
-1 - You don't need to make a fork just edit
-
-2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.md)
-
-3 - Build the URL:
-
-```
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
-```
-
-- {TEXT} = Paste your badge text
-- {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
-- {LOGO-NAME} = Logo name from Simple Icon
-
-4 - Paste on category
-
-5 - Commit your changes ;)
 
